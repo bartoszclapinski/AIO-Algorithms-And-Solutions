@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/bartoszclapinski/AIO-Algorithms-And-Solutions?style=flat-square">
   <img src="https://img.shields.io/github/commit-activity/w/bartoszclapinski/AIO-Algorithms-And-Solutions?color=green&style=flat-square">
-  <img src="https://img.shields.io/badge/Problems%20Solved-26-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/Problems%20Solved-28-blueviolet?style=flat-square">
   <img src="https://img.shields.io/github/languages/count/bartoszclapinski/AIO-Algorithms-And-Solutions?color=orange&style=flat-square">
   <img src="https://img.shields.io/github/languages/top/bartoszclapinski/AIO-Algorithms-And-Solutions?style=flat-square">  
 </p>
@@ -25,11 +25,11 @@ The solutions directory is further divided into subdirectories for each platform
 
 The solutions for HackerRank are written in C#, Java, and Python.
 
-#### [CoderByte](./solutions/coderbyte/README.md)
+#### [CoderByte](./Aio-Algorithms-And-Solutions/Solutions/Coderbyte/README.md)
 
 The solutions for CoderByte are currently only in C#.
 
-#### [Exercism](./solutions/exercism/README.md)
+#### [Exercism](./Aio-Algorithms-And-Solutions/Solutions/Exercism/README.md)
 
 The solutions for Exercism are currently only in C#
 
