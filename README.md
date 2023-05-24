@@ -10,6 +10,10 @@
 
 Welcome to `aio-algorithms-and-solutions`, a comprehensive repository containing solutions for popular programming challenges and important algorithm implementations.
 
+## Important Note
+
+These solutions are provided as a final resort in case you are stuck and need help to progress further. While you are encouraged to understand and learn from these solutions, please avoid just copying and pasting the code. The purpose of solving these challenges is to learn and grow as a programmer. Only by actively engaging with the problem, you will be able to improve your problem-solving and coding skills.
+
 ## Structure
 
 The repository is divided into two main directories:
