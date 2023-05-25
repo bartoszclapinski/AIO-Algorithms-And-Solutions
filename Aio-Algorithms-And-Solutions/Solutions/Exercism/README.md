@@ -17,3 +17,5 @@
 | 11  | Interest is Interesting           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/SavingsAccount.cs)   | C# | Learning Exercise |
 | 12  | Wizards And Warriors              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/WizardsAndWarriors)  | C# | Learning Exercise |
 | 13  | Hyper-optimized Telemetry         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/TelemetryBuffer.cs)  | C# | Learning Exercise |
+| 14  | Tracks on tracks on Tracks        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Languages.cs)        | C# | Learning Exercise |
+| 15  | Tim from Marketing                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Badge.cs)            | C# | Learning Exercise |
