@@ -23,3 +23,4 @@
 | 17  | Roll the Die!                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Player.cs)            | C# | Learning Exercise |
 | 18  | Log Levels                        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/LogLine.cs)           | C# | Learning Exercise |
 | 19  | Football Match Report             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/FootballMatchReport/) | C# | Learning Exercise |
+| 20  | Robot Name                        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Robot.cs)             | C# | Easy              |
