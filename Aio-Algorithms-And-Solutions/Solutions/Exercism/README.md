@@ -32,3 +32,4 @@
 | 26  | Space Age                         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/SpaceAge.cs)          | C# | Easy              |
 | 27  | Hamming                           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Hamming.cs)           | C# | Easy              |
 | 28  | Rotational Cipher                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RotationalCipher.cs)  | C# | Easy              |
+| 29  | Forth                             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Forth.cs)             | C# | Easy              |
