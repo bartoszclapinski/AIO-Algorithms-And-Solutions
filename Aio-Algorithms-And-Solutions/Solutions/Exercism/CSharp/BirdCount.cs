@@ -3,13 +3,13 @@
 /*
  *  This is a solution for Bird Watcher exercise on Exercism.org 
  */
-public class BirdCount
+public class BirdCount 
 {
     private readonly int[] _birdsPerDay;
 
     public BirdCount(int[] birdsPerDay)
     {
-        this._birdsPerDay = birdsPerDay;
+        _birdsPerDay = birdsPerDay;
     }
 
     public static int[] LastWeek()
