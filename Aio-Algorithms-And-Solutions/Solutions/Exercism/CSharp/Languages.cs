@@ -37,7 +37,7 @@ public class Languages
     public static bool IsExciting(List<string> languages)
     {
         if (languages.Count > 0)
-            return (languages[0] == "C#" || (languages[1] == "C#" && (languages.Count == 2 || languages.Count == 3)));
+            return (languages[0] == "C#" || (languages[1] == "C#" && languages.Count is 2 or 3));
         return false;
     }
 
