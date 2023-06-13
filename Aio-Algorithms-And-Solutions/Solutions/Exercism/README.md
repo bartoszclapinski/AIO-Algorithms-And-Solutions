@@ -38,10 +38,12 @@
 | 32  | Secure Munchester United          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/SecureMunchesterUnited.cs)    | C# | Learning Exercise |
 | 33  | Attack of the Trolls              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/SecureMunchesterUnited.cs)    | C# | Learning Exercise |
 | 34  | Hyperinflation Hits Hyperia       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HyperinflationHitsHyperia.cs) | C# | Learning Exercise |
+| 35  | Isogram                           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Isogram.cs)                   | C# | Easy              |
 
 
 
 ### Java Solutions
-| No. | Problem Name | Solutions                                                                                                                                               | Language | Difficulty |
-|-----|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| 1   | Two Fer      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Twofer.java) | Java     | Easy       |
+| No. | Problem Name     | Solutions                                                                                                                                               | Language | Difficulty        |
+|-----|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------|
+| 1   | Two Fer          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Twofer.java) | Java     | Easy              |
+| 2   | Play Your Cards! | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Twofer.java) | Java     | Learning Exercise |
