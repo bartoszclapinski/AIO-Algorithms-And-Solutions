@@ -43,7 +43,8 @@
 
 
 ### Java Solutions
-| No. | Problem Name     | Solutions                                                                                                                                               | Language | Difficulty        |
-|-----|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------|
-| 1   | Two Fer          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Twofer.java) | Java     | Easy              |
-| 2   | Play Your Cards! | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Twofer.java) | Java     | Learning Exercise |
+| No. | Problem Name     | Solutions                                                                                                                                                    | Language | Difficulty        |
+|-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------|
+| 1   | Two Fer          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Twofer.java)      | Java     | Easy              |
+| 2   | Play Your Cards! | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Blackjack.java)   | Java     | Learning Exercise |
+| 3   | Bird Watcher     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/BirdWatcher.java) | Java     | Learning Exercise |
