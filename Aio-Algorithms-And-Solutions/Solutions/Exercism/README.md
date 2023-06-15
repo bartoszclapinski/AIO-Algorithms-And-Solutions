@@ -41,6 +41,7 @@
 | 35  | Isogram                           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Isogram.cs)                   | C# | Easy              |
 | 36  | Weighing Machine                  | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/WeighingMachine.cs)           | C# | Easy              |
 | 37  | Beauty Salon Goes Global          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/BeautySalonGoesGlobal/)       | C# | Easy              |
+| 38  | The Weather in Deather            | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/BeautySalonGoesGlobal/)       | C# | Learning Exercise |
 
 
 
