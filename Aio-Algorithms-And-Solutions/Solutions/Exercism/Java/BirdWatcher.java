@@ -1,5 +1,3 @@
-package exercism;
-
 public class BirdWatcher {
     private final int[] _birdsPerDay;
 
