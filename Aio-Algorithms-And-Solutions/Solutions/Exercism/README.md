@@ -58,3 +58,4 @@
 | 7   | Log Levels             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/LogLevels.java)                     | Java     | Learning Exercise |
 | 8   | Scrabble Score         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Scrabble.java)                      | Java     | Easy              |
 | 9   | Difference of Squares  | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/DifferenceOfSquaresCalculator.java) | Java     | Easy              |
+| 10  | Reverse String         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/ReverseString.java)                 | Java     | Easy              |
