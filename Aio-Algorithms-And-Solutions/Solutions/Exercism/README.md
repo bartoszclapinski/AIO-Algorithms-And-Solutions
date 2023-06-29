@@ -43,6 +43,9 @@
 | 37  | Beauty Salon Goes Global          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/BeautySalonGoesGlobal/)       | C#       | Easy              |
 | 38  | The Weather in Deather            | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/TheWeatherInDeather.cs)       | C#       | Learning Exercise |
 | 39  | Spiral Matrix                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/SpiralMatrix.cs)              | C#       | Medium            |
+| 40  | Grains                            | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Grains.cs)                    | C#       | Easy              |
+| 41  | Resistor Color Duo                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/ResistorColorDuo.cs)          | C#       | Easy              |
+| 42  | Perfect Numbers                   | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/PerfectNumbers.cs)            | C#       | Easy              |
 
 
 
