@@ -68,3 +68,4 @@
 | 14  | MicroBlog              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/MicroBlog.java)                     | Java     | Easy              |
 | 15  | Protein Translator     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/ProteinTranslator.java)             | Java     | Easy              |
 | 16  | Perfect Numbers        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/PerfectNumbers/)                    | Java     | Easy              |
+| 17  | Say                    | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Say.java)                           | Java     | Easy              |
