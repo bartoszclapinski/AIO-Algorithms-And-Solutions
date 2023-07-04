@@ -71,3 +71,4 @@
 | 17  | Say                    | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Say.java)                           | Java     | Easy              |
 | 18  | Leap                   | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Leap.java)                          | Java     | Easy              |
 | 19  | Armstrong Numbers      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/ArmstrongNumbers.java)              | Java     | Easy              |
+| 20  | RNA Transcription      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/RnaTranscription.java)              | Java     | Easy              |
