@@ -73,3 +73,4 @@
 | 19  | Armstrong Numbers      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/ArmstrongNumbers.java)              | Java     | Easy              |
 | 20  | RNA Transcription      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/RnaTranscription.java)              | Java     | Easy              |
 | 21  | Acronym                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Acronym.java)                       | Java     | Easy              |
+| 22  | Pangram                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/PangramChecker.java)                | Java     | Easy              |
