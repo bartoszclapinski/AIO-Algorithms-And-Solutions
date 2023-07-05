@@ -75,3 +75,4 @@
 | 21  | Acronym                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Acronym.java)                       | Java     | Easy              |
 | 22  | Pangram                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/PangramChecker.java)                | Java     | Easy              |
 | 23  | Space Age              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/SpaceAge.java)                      | Java     | Easy              |
+| 24  | Karl's Languages       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/LanguageList.java)                  | Java     | Learning Exercise |
