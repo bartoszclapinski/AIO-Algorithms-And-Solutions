@@ -35,6 +35,6 @@ The solutions for CoderByte are currently only in C#.
 
 #### [Exercism](./Aio-Algorithms-And-Solutions/Solutions/Exercism/README.md)
 
-The solutions for Exercism are currently only in C#
+The solutions for Exercism are written in C# and Java
 
 
