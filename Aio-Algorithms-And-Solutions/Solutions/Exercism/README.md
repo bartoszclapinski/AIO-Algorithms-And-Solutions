@@ -77,3 +77,4 @@
 | 23  | Space Age              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/SpaceAge.java)                      | Java     | Easy              |
 | 24  | Karl's Languages       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/LanguageList.java)                  | Java     | Learning Exercise |
 | 25  | High Scores            | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/HighScores.java)                    | Java     | Easy              |
+| 26  | Squeaky Clean          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/SqueakyClean.java)                  | Java     | Learning Exercise |
