@@ -80,3 +80,4 @@
 | 26  | Squeaky Clean          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/SqueakyClean.java)                  | Java     | Learning Exercise |
 | 27  | Hamming                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Hamming.java)                       | Java     | Easy              |
 | 28  | Cars, Assemble!        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/CarsAssemble.java)                  | Java     | Learning Exercise |
+| 29  | Elon's Toy Car         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/ElonsToyCar.java)                   | Java     | Learning Exercise |
