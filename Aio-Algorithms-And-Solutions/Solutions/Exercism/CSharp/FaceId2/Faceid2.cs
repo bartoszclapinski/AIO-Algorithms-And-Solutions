@@ -1,9 +1,9 @@
-﻿namespace Aio_Algorithms_And_Solutions.Solutions.Exercism.CSharp;
+﻿namespace Aio_Algorithms_And_Solutions.Solutions.Exercism.CSharp.FaceId2;
 
 using System;
 using System.Collections.Generic;
 
-public class FacialFeatures : IEquatable<FacialFeatures>
+public partial class FacialFeatures : IEquatable<FacialFeatures>
 {
     public string EyeColor { get; }
     public decimal PhiltrumWidth { get; }
