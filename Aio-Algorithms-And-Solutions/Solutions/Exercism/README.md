@@ -48,6 +48,7 @@
 | 42  | Perfect Numbers                   | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/PerfectNumbers.cs)            | C#       | Easy              |
 | 43  | Remote Control Competition        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCompetition.cs)  | C#       | Learning Exercise |
 | 44  | Face ID 2.0                       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Faceid2.cs)                   | C#       | Learning Exercise |
+| 45  | Wizard and Warriors 2.0           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/WizardAndWarriors2/)          | C#       | Learning Exercise |
 
 
 
