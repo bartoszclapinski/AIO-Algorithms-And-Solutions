@@ -46,6 +46,7 @@
 | 40  | Grains                            | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Grains.cs)                    | C#       | Easy              |
 | 41  | Resistor Color Duo                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/ResistorColorDuo.cs)          | C#       | Easy              |
 | 42  | Perfect Numbers                   | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/PerfectNumbers.cs)            | C#       | Easy              |
+| 43  | Remote Control Competition        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCompetition.cs)  | C#       | Learning Exercise |
 
 
 
