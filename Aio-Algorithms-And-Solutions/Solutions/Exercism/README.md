@@ -50,6 +50,7 @@
 | 44  | Face ID 2.0                       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/FaceId2/)                     | C#       | Learning Exercise |
 | 45  | Wizard and Warriors 2.0           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/WizardAndWarriors2/)          | C#       | Learning Exercise |
 | 46  | Developer Privileges              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/DeveloperPrivileges/)         | C#       | Learning Exercise |
+| 47  | High Scores                       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HighScores.cs)                | C#       | Easy              |
 
 
 
