@@ -53,6 +53,7 @@
 | 47  | High Scores                       | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HighScores.cs)                | C#       | Easy              |
 | 48  | Grade School                      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/GradeSchool.cs)               | C#       | Easy              |
 | 49  | Hyperia Forex                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HyperiaForex.cs)              | C#       | Learning Exercise |
+| 50  | Building Exercise                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/BuildingExercise.cs)          | C#       | Learning Exercise |
 
 
 
