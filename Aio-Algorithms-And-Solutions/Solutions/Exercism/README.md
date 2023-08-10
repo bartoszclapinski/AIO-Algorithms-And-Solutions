@@ -56,6 +56,7 @@
 | 50  | Building Exercise                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/BuildingExercise.cs)          | C#       | Learning Exercise |
 | 51  | Object Relational Mapping         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/ObjectRelationalMapping.cs)   | C#       | Learning Exercise |
 | 52  | Orm in One Go                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/OrmInOneGo.cs)                | C#       | Learning Exercise |
+| 53  | High School Sweathearts           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HighSchoolSweathearts.cs)     | C#       | Learning Exercise |
 
 
 
