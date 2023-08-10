@@ -55,6 +55,7 @@
 | 49  | Hyperia Forex                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HyperiaForex.cs)              | C#       | Learning Exercise |
 | 50  | Building Exercise                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/BuildingExercise.cs)          | C#       | Learning Exercise |
 | 51  | Object Relational Mapping         | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/ObjectRelationalMapping.cs)   | C#       | Learning Exercise |
+| 52  | Orm in One Go                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/OrmInOneGo.cs)                | C#       | Learning Exercise |
 
 
 

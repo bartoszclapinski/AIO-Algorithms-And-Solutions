@@ -43,7 +43,7 @@ public class Orm: IDisposable
 
 //  This is a fake database. It is not a real database. 
 //  It is here to simulate a real database.
-public class Database
+public class Database : IDisposable
 {
     public void BeginTransaction()
     {
@@ -52,7 +52,7 @@ public class Database
 
     public void Dispose()
     {
-        throw new NotImplementedException();
+        // TODO release managed resources here
     }
 
     public void Write(string data)
