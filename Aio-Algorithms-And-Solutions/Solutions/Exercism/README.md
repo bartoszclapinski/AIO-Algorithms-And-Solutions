@@ -58,6 +58,7 @@
 | 52  | Orm in One Go                     | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/OrmInOneGo.cs)                | C#       | Learning Exercise |
 | 53  | High School Sweathearts           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/HighSchoolSweathearts.cs)     | C#       | Learning Exercise |
 | 54  | Parsing Log Files                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/ParseLogFiles.cs)             | C#       | Learning Exercise |
+| 55  | Land Grab in Space                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/LandGrabInSpace.cs)           | C#       | Learning Exercise |
 
 
 
