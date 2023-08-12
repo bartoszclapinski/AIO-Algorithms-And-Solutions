@@ -1,7 +1,7 @@
 ﻿namespace Aio_Algorithms_And_Solutions.Solutions.Exercism.CSharp;
 
 using System;
-public class RemoteControlCar
+public partial class RemoteControlCar
 {
     private int _batteryPercentage = 100;
     private int _distanceDrivenInMeters = 0;
