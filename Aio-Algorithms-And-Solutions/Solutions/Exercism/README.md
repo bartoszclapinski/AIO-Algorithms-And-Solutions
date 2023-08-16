@@ -63,6 +63,7 @@
 | 57  | Authentication System             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/AuthenticationSystem.cs) | C#       | Learning Exercise |
 | 58  | Red vs. Blue: Darwin Style        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/RedVsBlueDarwinStyle.cs) | C#       | Learning Exercise |
 | 59  | Phone Number Analysis             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/PhoneNumberAnalysis.cs)  | C#       | Learning Exercise |
+| 60  | Instruments of Texas              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/InstrumentOfTexas.cs)    | C#       | Learning Exercise |
 
 
 
