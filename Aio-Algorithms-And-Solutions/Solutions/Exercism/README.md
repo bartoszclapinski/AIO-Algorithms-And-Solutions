@@ -60,6 +60,7 @@
 | 54  | Parsing Log Files                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/ParseLogFiles.cs)                             | C#       | Learning Exercise |
 | 55  | Land Grab in Space                | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/LandGrabInSpace.cs)                           | C#       | Learning Exercise |
 | 56  | Remote Control Cleanup            | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/RemoteControlCleanup.cs) | C#       | Learning Exercise |
+| 57  | Authentication System             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/AuthenticationSystem.cs) | C#       | Learning Exercise |
 
 
 
