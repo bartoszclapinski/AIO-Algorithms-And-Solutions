@@ -71,6 +71,7 @@
 | 65  | Tournament                        | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Tournament.cs)                                | C#       | Medium            |
 | 66  | Variable Length Quantity          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/VariableLengthQuantity.cs)                    | C#       | Medium            |
 | 67  | Dominoes                          | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Dominoes.cs)                                  | C#       | Medium            |
+| 68  | Acronym                           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Acronym.cs)                                   | C#       | Medium            |
 
 
 ### Java Solutions
