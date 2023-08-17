@@ -65,7 +65,7 @@
 | 59  | Phone Number Analysis             | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/PhoneNumberAnalysis.cs)  | C#       | Learning Exercise |
 | 60  | Instruments of Texas              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/InstrumentOfTexas.cs)    | C#       | Learning Exercise |
 | 61  | Log Analysis                      | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/LogAnalysis.cs)          | C#       | Learning Exercise |
-
+| 62  | Two Fer                           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/RemoteControlCleanup/TwoFer.cs)               | C#       | Easy              |
 
 
 ### Java Solutions
