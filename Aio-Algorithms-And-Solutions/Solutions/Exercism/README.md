@@ -119,3 +119,4 @@
 | 40  | Saddle Points              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/SaddlePoints)                       | Java     | Medium            |
 | 41  | Flatten Array              | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Flattener.java)                     | Java     | Medium            |
 | 42  | Word Count                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/WordCount.java)                     | Java     | Medium            |
+| 43  | Robot Name                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/Java/Robot.java)                     | Java     | Medium            |
