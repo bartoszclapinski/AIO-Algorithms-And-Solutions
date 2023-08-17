@@ -68,6 +68,7 @@
 | 62  | Two Fer                           | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/TwoFer.cs)                                    | C#       | Easy              |
 | 63  | Bob                               | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Bob.cs)                                       | C#       | Medium            |
 | 64  | Matching Brackets                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/MatchingBrackets.cs)                          | C#       | Medium            |
+| 65  | Tournament                 | [Solution](https://github.com/bartoszclapinski/AIO-Algorithms-And-Solutions/blob/main/Aio-Algorithms-And-Solutions/Solutions/Exercism/CSharp/Tournament.cs)                          | C#       | Medium            |
 
 
 ### Java Solutions
