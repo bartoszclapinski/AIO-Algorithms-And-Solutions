@@ -1,4 +1,4 @@
-# Algorytmy i Struktury Danych - Plan Nauki
+# Algorytmy i Struktury Danych
 
 ## 1. Podstawowe Struktury Danych
 ### Poziom: Początkujący
@@ -6,8 +6,8 @@
 - [x] Lista (LinkedList)
   - Pojedynczo wiązana
   - Podwójnie wiązana
-- [ ] Stos (Stack)
-- [ ] Kolejka (Queue)
+- [x] Stos (Stack)
+- [x] Kolejka (Queue)
 - [ ] HashTable/HashMap
 
 ## 2. Podstawowe Algorytmy Sortowania
