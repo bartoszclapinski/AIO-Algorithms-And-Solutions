@@ -39,4 +39,15 @@ The solutions for CoderByte are currently only in C#.
 
 The solutions for Exercism are written in C# and Java
 
+### Algorithms
+
+#### [Algorithms](./Aio-Algorithms-And-Solutions/Algorithms/README.md)
+
+The algorithms section contains implementations of common algorithms and data structures:
+- Sorting Algorithms
+- Search Algorithms
+- Graph Algorithms
+- Tree Structures
+- Dynamic Programming
+
 
