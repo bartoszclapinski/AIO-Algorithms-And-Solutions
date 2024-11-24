@@ -3,7 +3,7 @@
 ## 1. Podstawowe Struktury Danych
 ### Poziom: Początkujący
 - [x] Tablice (Arrays)
-- [ ] Lista (LinkedList)
+- [x] Lista (LinkedList)
   - Pojedynczo wiązana
   - Podwójnie wiązana
 - [ ] Stos (Stack)
