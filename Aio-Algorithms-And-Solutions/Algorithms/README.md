@@ -1,62 +1,62 @@
-# Algorytmy i Struktury Danych
+# Algorithms and Data Structures
 
-## 1. Podstawowe Struktury Danych
-### Poziom: Początkujący
-- [x] Tablice (Arrays)
-- [x] Lista (LinkedList)
-  - Pojedynczo wiązana
-  - Podwójnie wiązana
-- [x] Stos (Stack)
-- [x] Kolejka (Queue)
+## 1. Basic Data Structures
+### Level: Beginner
+- [x] Arrays
+- [x] LinkedList
+  - Singly Linked
+  - Doubly Linked
+- [x] Stack
+- [x] Queue
 - [ ] HashTable/HashMap
 
-## 2. Podstawowe Algorytmy Sortowania
-### Poziom: Początkujący
+## 2. Basic Sorting Algorithms
+### Level: Beginner
 - [ ] Bubble Sort
 - [ ] Selection Sort
 - [ ] Insertion Sort
 - [ ] Counting Sort
 
-## 3. Zaawansowane Algorytmy Sortowania
-### Poziom: Średni
+## 3. Advanced Sorting Algorithms
+### Level: Intermediate
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort
 
-## 4. Struktury Drzewiaste
-### Poziom: Średni/Zaawansowany
-- [ ] Drzewo Binarne (Binary Tree)
-- [ ] Drzewo BST (Binary Search Tree)
-- [ ] Kopiec (Heap)
+## 4. Tree Structures
+### Level: Intermediate/Advanced
+- [ ] Binary Tree
+- [ ] Binary Search Tree (BST)
+- [ ] Heap
 - [ ] AVL Tree
 - [ ] Red-Black Tree
 
-## 5. Algorytmy Przeszukiwania
-### Poziom: Średni
-- [ ] Wyszukiwanie Liniowe
-- [ ] Wyszukiwanie Binarne
+## 5. Search Algorithms
+### Level: Intermediate
+- [ ] Linear Search
+- [ ] Binary Search
 - [ ] BFS (Breadth-First Search)
 - [ ] DFS (Depth-First Search)
 
-## 6. Grafy i Algorytmy Grafowe
-### Poziom: Zaawansowany
-- [ ] Reprezentacja Grafów
-  - Macierz sąsiedztwa
-  - Lista sąsiedztwa
-- [ ] Algorytm Dijkstry
-- [ ] Algorytm Kruskala
-- [ ] Algorytm Prima
-- [ ] Sortowanie Topologiczne
+## 6. Graphs and Graph Algorithms
+### Level: Advanced
+- [ ] Graph Representations
+  - Adjacency Matrix
+  - Adjacency List
+- [ ] Dijkstra's Algorithm
+- [ ] Kruskal's Algorithm
+- [ ] Prim's Algorithm
+- [ ] Topological Sort
 
-## 7. Techniki Programowania
-### Poziom: Zaawansowany
-- [ ] Rekurencja
-- [ ] Dziel i Zwyciężaj
-- [ ] Programowanie Dynamiczne
-- [ ] Algorytmy Zachłanne
+## 7. Programming Techniques
+### Level: Advanced
+- [ ] Recursion
+- [ ] Divide and Conquer
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithms
 
-## 8. Zaawansowane Tematy
-### Poziom: Ekspert
+## 8. Advanced Topics
+### Level: Expert
 - [ ] Drzewa Trie
 - [ ] Algorytm KMP
 - [ ] Union Find
